@@ -1,4 +1,3 @@
-# DecodeLabs-Internship.
 # DecodeLabs Data Analytics Internship
 ### Isaac Okolie | SkillAhead Solutions Ltd | 2026
 
