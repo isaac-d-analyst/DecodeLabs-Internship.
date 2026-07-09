@@ -90,7 +90,7 @@ PaymentMethod, ReferralSource, CouponCode, OrderStatus, Date
 
 ## 🔍 Project 1 — Data Integrity & Cleaning Audit
 
-📂 [View Folder]((https://github.com/isaac-d-analyst/Task-1-Isaac_Okoile)) &nbsp;|&nbsp; 🛠️ Excel & Power Query
+📂 [View Folder](https://github.com/isaac-d-analyst/Task-1-Isaac_Okoile) &nbsp;|&nbsp; 🛠️ Excel & Power Query
 
 **Objective:** Audit and clean the raw dataset before any analysis begins.
 
