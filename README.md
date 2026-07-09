@@ -231,8 +231,7 @@ PaymentMethod, ReferralSource, CouponCode, OrderStatus, Date
 **Isaac Okolie**
 Data Analyst & Data Analytics Tutor | Nigeria
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/ebube-isaac-okolie)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/ebube-isaac-okolie)
 ---
 
 *DecodeLabs Internship | SkillAhead Solutions Ltd | Accredited by Institute of Analytics, UK*
