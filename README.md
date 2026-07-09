@@ -90,7 +90,7 @@ PaymentMethod, ReferralSource, CouponCode, OrderStatus, Date
 
 ## 🔍 Project 1 — Data Integrity & Cleaning Audit
 
-📂 [View Folder](./Project-1-Data-Cleaning/) &nbsp;|&nbsp; 🛠️ Excel & Power Query
+📂 [View Folder]((https://github.com/isaac-d-analyst/Task-1-Isaac_Okoile)) &nbsp;|&nbsp; 🛠️ Excel & Power Query
 
 **Objective:** Audit and clean the raw dataset before any analysis begins.
 
@@ -113,7 +113,7 @@ PaymentMethod, ReferralSource, CouponCode, OrderStatus, Date
 
 ## 📈 Project 2 — Exploratory Data Analysis (EDA)
 
-📂 [View Folder](./Project-2-EDA/) &nbsp;|&nbsp; 🛠️ Excel & Power Query
+📂 [View Folder](https://github.com/isaac-d-analyst/Task-2-Isaac_Okoile) &nbsp;|&nbsp; 🛠️ Excel & Power Query
 
 **Objective:** Explore patterns, detect outliers, and measure variable relationships.
 
@@ -142,7 +142,7 @@ PaymentMethod, ReferralSource, CouponCode, OrderStatus, Date
 
 ## 🗄️ Project 3 — SQL for Data Analysis
 
-📂 [View Folder](./Project-3-SQL-Analysis/) &nbsp;|&nbsp; 🛠️ MySQL
+📂 [View Folder](https://github.com/isaac-d-analyst/Task-3-Isaac_Okoile) &nbsp;|&nbsp; 🛠️ MySQL
 
 **Objective:** Extract actionable business insights using structured SQL queries.
 
@@ -170,7 +170,7 @@ PaymentMethod, ReferralSource, CouponCode, OrderStatus, Date
 
 ## 📊 Project 4 — Data Visualization & Storytelling
 
-📂 [View Folder](./Project-4-Data-Visualization/) &nbsp;|&nbsp; 🛠️ Power BI
+📂 [View Folder](https://github.com/isaac-d-analyst/Task-4-Isaac_Okoile) &nbsp;|&nbsp; 🛠️ Power BI
 
 **Objective:** Build a 2-page Power BI dashboard communicating revenue insights clearly.
 
