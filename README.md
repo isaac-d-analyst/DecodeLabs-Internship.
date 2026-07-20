@@ -17,8 +17,6 @@ This repository documents my complete internship work at DecodeLabs
 | Property | Detail |
 |----------|--------|
 | Program | DecodeLabs Data Analytics Internship |
-| Powered by | SkillAhead Solutions Ltd |
-| Accreditation | Institute of Analytics (IoA), UK |
 | Year | 2026 |
 | Focus | End-to-end data analytics using real business datasets |
 
